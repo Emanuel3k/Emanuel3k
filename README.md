@@ -13,7 +13,7 @@
   <a href="https://github.com/Emanuel3k">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuel3k&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel3k&layout=compact&langs_count=7&theme=midnight-purple"/>
-   <img align="center"  alt="Poke" src="https://steamuserimages-a.akamaihd.net/ugc/1788515362277971665/E0883FDCC48C2784C3350053FF19C51A5DE0BE2C/">
+   <img align="center"  alt="One-Piece" src="https://i.pinimg.com/originals/3d/3c/6b/3d3c6bf9c003e81d3fe8f7b75ed75efa.gif">
 </div>
 <div align="center" style="display: inline_block"><br>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" height="60" style="vertical-align:top; margin:4px">
