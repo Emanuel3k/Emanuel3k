@@ -5,7 +5,7 @@
  Me chamo Emanuel Jesus Santos e tenho 19 anos,
   
  Atualmente estou cursando Analise e Desenvolvimento de sistemas no instituto federal de Santa Catarina.
- Além da faculdade estou fazendo alguns cursos por fora pela FIAP, Udemu, e outros para aumentar meu conhecimento e aprimorar as habilidades que estou adquirindo.
+ Além da faculdade estou fazendo alguns cursos por fora pela FIAP, Udemy, e outros para aumentar meu conhecimento e aprimorar as habilidades que estou adquirindo.
 
  Este GitHub tem como objetivo armazenar com o tempo os projetos que eu for desenvolvimento para futuramente poder ver a minha evolução.
 
