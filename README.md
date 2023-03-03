@@ -2,7 +2,7 @@
  <summary>Sobre mim
   
  Ola, tudo bem ? 
- Me chamo Emanuel Jesus Santos e tenho 19 anos,
+ Me chamo Emanuel Jesus Santos e tenho 20 anos,
   
  Atualmente estou cursando Analise e Desenvolvimento de sistemas no instituto federal de Santa Catarina.
  Além da faculdade estou fazendo alguns cursos por fora pela FIAP, Udemy, e outros para aumentar meu conhecimento e aprimorar as habilidades que estou adquirindo.
