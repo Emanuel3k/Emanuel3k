@@ -1,10 +1,9 @@
  <details>
  <summary>Sobre mim
   
- Ola, tudo bem ? 
- Me chamo Emanuel Jesus Santos e tenho 20 anos,
-  
- Atualmente estou cursando Analise e Desenvolvimento de sistemas no instituto federal de Santa Catarina.
+ Ola, tudo bem ?
+
+ Meu nome é Emanuel Jesus Santos, atualmente estou cursando Analise e Desenvolvimento de sistemas no Instituto Federal de Santa Catarina.
  Além da faculdade estou fazendo alguns cursos por fora pela FIAP, Udemy, e outros para aumentar meu conhecimento e aprimorar as habilidades que estou adquirindo.
 
  Este GitHub tem como objetivo armazenar com o tempo os projetos que eu for desenvolvendo para futuramente poder ver a minha evolução.
